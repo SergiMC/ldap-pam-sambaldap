@@ -1,6 +1,6 @@
 # Version: 0.0.1
-# Aitor Galilea@edt M06 2018-2019
-# Servidor SAMBA con LDAP como backend
+# @edt Sergi Muñoz Carmona M06 2018-2019
+# Dockerfile
 #-------------------------------------
 FROM fedora:27
 LABEL author="@edt ASIX M06-ASO"
