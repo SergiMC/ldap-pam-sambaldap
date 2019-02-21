@@ -1,6 +1,6 @@
 # PAM
 ## @edt Sergi Muñoz Carmona ASIX M06-ASO Curs 2018-2019
-Podeu trobar les imatges docker al Dockerhub de [sergimc](https://hub.docker.com/u/sergimc/)
+Podeu trobar les imatges docker al Dockerhub de [sergimc](https://cloud.docker.com/repository/docker/sergimc/hpamsmb)
 
 Repositori d'exemples de containers docker que utilitzen PAM
 
