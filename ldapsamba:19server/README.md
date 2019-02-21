@@ -1,7 +1,7 @@
 # LDAP
 ## @edt Sergi Muñoz Carmona ASIX M06-ASO Curs 2018-2019
 
-Podeu trobar les imatges docker al Dockerhub de [sergimc](https://hub.docker.com/u/sergimc/)
+Podeu trobar les imatges docker al Dockerhub de [sergimc](https://cloud.docker.com/repository/docker/sergimc/serversmb)
 
 ASIX M06-ASO Escola del treball de barcelona
 
