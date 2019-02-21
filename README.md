@@ -4,7 +4,7 @@
 Pràctica el qual muntarem un sitema de servidord LDAP, PAM i SAMBA o SAMBA tindrà LDAP com a backend.
 
 Podeu trobar les imatges docker al Dockerhub de [sergimc](https://hub.docker.com/u/sergimc/).
-**ldap: [ldap](https://cloud.docker.com/repository/docker/sergimc/serversmb)
+**ldap: [ldap](https://cloud.docker.com/repository/docker/sergimc/serversmb)**
 hpam: [hpam](https://cloud.docker.com/repository/docker/sergimc/hpamsmb)
 samba: [samba](https://cloud.docker.com/repository/docker/sergimc/serversmb) #tag :19smb
 ## Imatges:
