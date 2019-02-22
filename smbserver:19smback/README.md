@@ -1,7 +1,9 @@
 # SAMBA
 ## @edt Sergi Muñoz Carmona ASIX M06-ASO Curs 2018-2019
 
+### Imatge samba en Dockerhub:
 Podeu trobar les imatges docker al Dockerhub de [sergimc](https://hub.docker.com/u/sergimc/)
+* **samba:** [samba](https://cloud.docker.com/repository/docker/sergimc/serversmb) (#tag :19smb)
 
 ### Imatge:
 
